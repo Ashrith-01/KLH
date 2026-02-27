@@ -1,0 +1,19 @@
+employee_id,employee_name,team,month,sales_target,sales_achieved,deliveries_target,deliveries_on_time,customer_rating,attendance_pct
+E001,Ana Cruz,North,2026-01-01,120,128,180,176,4.9,99
+E002,Dev Malik,North,2026-01-01,110,102,170,160,4.4,96
+E003,Leah Kim,South,2026-01-01,100,97,155,152,4.7,94
+E004,Omar Diaz,South,2026-01-01,130,136,190,189,4.8,98
+E005,Priya Shah,West,2026-01-01,105,100,165,158,4.5,97
+E006,Ryan Cole,West,2026-01-01,125,118,175,161,4.3,93
+E001,Ana Cruz,North,2026-02-01,120,130,180,178,4.9,99
+E002,Dev Malik,North,2026-02-01,110,108,170,163,4.5,97
+E003,Leah Kim,South,2026-02-01,100,103,155,150,4.6,95
+E004,Omar Diaz,South,2026-02-01,130,133,190,186,4.9,99
+E005,Priya Shah,West,2026-02-01,105,110,165,164,4.8,98
+E006,Ryan Cole,West,2026-02-01,125,122,175,168,4.4,95
+E001,Ana Cruz,North,2026-03-01,125,135,185,182,5.0,100
+E002,Dev Malik,North,2026-03-01,115,111,175,169,4.6,97
+E003,Leah Kim,South,2026-03-01,105,106,160,157,4.8,96
+E004,Omar Diaz,South,2026-03-01,130,138,195,193,4.9,99
+E005,Priya Shah,West,2026-03-01,110,114,170,167,4.8,98
+E006,Ryan Cole,West,2026-03-01,130,124,180,172,4.5,96
